@@ -9,6 +9,6 @@ The main features are:
 * I/O expander (PCA9557PW) and rotary DIP switch (A6R/A6RV) for easier transmitter frequency set.
 * Support both USB and battery power supply
 
-The photo of the core board is shown below as references. 
+The photo of the transmitter board is shown below as references. 
 
 ![](./Images/Transmitter_Front_Shrinked.jpg)
